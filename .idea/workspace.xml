@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c060969-84b5-4869-a429-0ea2b9908c9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kHpUku36Z1n3xvQoCaZvNZsjEN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\itcast\vue-demo\src\router" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\itcast\vue-demo\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c060969-84b5-4869-a429-0ea2b9908c9c" name="Default Changelist" comment="" />
+      <created>1605367391285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605367391285</updated>
+      <workItem from="1605367392939" duration="1157000" />
+      <workItem from="1605368866066" duration="414000" />
+      <workItem from="1605369338000" duration="1332000" />
+      <workItem from="1605370694743" duration="297000" />
+      <workItem from="1605371643420" duration="253000" />
+      <workItem from="1605433690663" duration="2352000" />
+      <workItem from="1605436771118" duration="82000" />
+      <workItem from="1605436874890" duration="203000" />
+      <workItem from="1605437336740" duration="623000" />
+      <workItem from="1605438636650" duration="782000" />
+      <workItem from="1605442276791" duration="1074000" />
+      <workItem from="1605444365110" duration="351000" />
+      <workItem from="1605445013545" duration="451000" />
+      <workItem from="1605445917201" duration="33000" />
+      <workItem from="1605446293023" duration="825000" />
+      <workItem from="1605447144155" duration="35000" />
+      <workItem from="1605447982456" duration="675000" />
+      <workItem from="1605449965804" duration="1045000" />
+      <workItem from="1605451453330" duration="237000" />
+      <workItem from="1605519421813" duration="654000" />
+      <workItem from="1605520900762" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="948" height="226" key="GridCell.Tab.0.bottom" timestamp="1605367536255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="226" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605367536255" />
+    <state width="948" height="226" key="GridCell.Tab.0.center" timestamp="1605367536255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="226" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605367536255" />
+    <state width="948" height="226" key="GridCell.Tab.0.left" timestamp="1605367536255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="226" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605367536255" />
+    <state width="948" height="226" key="GridCell.Tab.0.right" timestamp="1605367536255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="948" height="226" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605367536255" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605439412517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1605439412517" />
+  </component>
+</project>
